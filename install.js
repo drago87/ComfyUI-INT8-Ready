@@ -83,7 +83,8 @@ module.exports = async (kernel, info) => {
           "gligen": "app/models/gligen",
           "style_models": "app/models/style_models",
           "photomaker": "app/models/photomaker",
-		  "text_encoders": "app/models/text_encoders"
+		  "text_encoders": "app/models/text_encoders",
+		  "ultralytics": "app/models/ultralytics"
         },
         "peers": [
           "https://github.com/cocktailpeanut/fluxgym.git",
