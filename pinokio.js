@@ -1,7 +1,7 @@
 const path = require('path')
 module.exports = {
   version: "3.9",
-  title: "Comfyui",
+  title: "ComfyUI INT8 ConvRot",
   description: "Now with support for INT8 ConvRot. The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. https://github.com/comfyanonymous/ComfyUI - Updated for Python 3.12 + torch 2.10 + cu130 (sageattention wheel fix)",
   icon: "icon.jpeg",
   menu: async (kernel, info) => {
