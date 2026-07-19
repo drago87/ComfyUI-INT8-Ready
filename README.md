@@ -27,4 +27,4 @@ Changes made
 - sageattention : 2.2.0
 - flash_attn    : try Comfy-Org index; skip gracefully if no Windows wheel
 
-I have also added diffusion_models and text_encoders to the list of folders cheered between instance
+I have also added diffusion_models, text_encoders and ultralytics to the list of folders cheered between instance
