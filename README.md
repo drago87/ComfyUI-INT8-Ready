@@ -16,6 +16,7 @@ Model Support
 | GTX 950/960/970/980                  | Maxwell 5.x     | —        | ❌                | ❌             | No INT8 Tensor Cores, no cu130                              |
 | AMD RX 7700 XT / 7800 XT / 7900      | RDNA3           | 12–24 GB | ⚠️ via ROCm fork | ❌ untested    | ComfyUI-INT8-Fast-ROCM exists but early                     |
 | AMD RX 6800 / 6900 XT                | RDNA2 (gfx1030) | 16 GB    | ⚠️ unofficial    | ❌             | Not in ROCm 7.1 official list                               |
+
 Based on https://github.com/pinokiofactory/comfy
 
 Changes made
